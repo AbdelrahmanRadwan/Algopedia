@@ -3,6 +3,7 @@ int main()
 {
 
 
+	cout << "asdhasdk" << endl;
 
 	return 0;
 
