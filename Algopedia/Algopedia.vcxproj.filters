@@ -36,10 +36,31 @@
     <ClCompile Include="Main_Tester.cpp">
       <Filter>Testers</Filter>
     </ClCompile>
+    <ClCompile Include="Insertion_Sort.cpp">
+      <Filter>Implementations\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Insertion_Sort_Tester.cpp">
+      <Filter>Testers</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Schedualing_Tester.cpp">
+      <Filter>Testers</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Schedualing.cpp">
+      <Filter>Implementations\Algorithms</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="General_Header.h">
       <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Insertion_Sort.h">
+      <Filter>Headers\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="All.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_Schedualing.h">
+      <Filter>Headers\Algorithms</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

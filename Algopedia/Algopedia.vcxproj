@@ -78,11 +78,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Insertion_Sort.cpp" />
+    <ClCompile Include="Insertion_Sort_Tester.cpp" />
     <ClCompile Include="Main_Tester.cpp" />
     <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="Task_Schedualing.cpp" />
+    <ClCompile Include="Task_Schedualing_Tester.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="All.h" />
     <ClInclude Include="General_Header.h" />
+    <ClInclude Include="Insertion_Sort.h" />
+    <ClInclude Include="Task_Schedualing.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
